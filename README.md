@@ -15,10 +15,12 @@ Instructor: Dr. Hoda Mohammadzade; Spring 2021
 Results:
 
 Original Signal:
-<img src="https://user-images.githubusercontent.com/94138466/155301209-35b664ac-7b9b-4e3c-9917-4ba913640f51.png" width=80% height=80%>
+
+<img src="https://user-images.githubusercontent.com/94138466/155301209-35b664ac-7b9b-4e3c-9917-4ba913640f51.png" width=70% height=70%>
 
 Preprocessed Signal:
-<img src="https://user-images.githubusercontent.com/94138466/155301146-98ee4b8b-beb2-4564-9bf2-f4cbd0f68d60.png" width=80% height=80%>
+
+<img src="https://user-images.githubusercontent.com/94138466/155301146-98ee4b8b-beb2-4564-9bf2-f4cbd0f68d60.png" width=70% height=70%>
 
 ### Feature Extraction (using Python):
 
