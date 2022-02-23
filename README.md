@@ -29,7 +29,7 @@ Preprocessed Signal:
 ![image](https://user-images.githubusercontent.com/94138466/155302352-1c21531b-20e2-4785-9d09-7bbee297b5c9.png)
 ![image](https://user-images.githubusercontent.com/94138466/155302378-9e7a53e8-9a76-4bca-b33c-cda433a793bd.png)
 
-### Model Selection (Hyperparameters were tuned using gridsearch)
+### Model Evaluation (Hyperparameters were tuned using gridsearch)
 
 | Accuracy | Model 
 | --------------- | --------------- 
